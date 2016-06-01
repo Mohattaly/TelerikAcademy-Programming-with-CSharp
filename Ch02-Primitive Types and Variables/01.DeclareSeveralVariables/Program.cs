@@ -10,6 +10,8 @@ namespace _01.DeclareSeveralVariables
     {
         static void Main(string[] args)
         {
+            // Declaring several variables and assinging values to.
+
         }
     }
 }
