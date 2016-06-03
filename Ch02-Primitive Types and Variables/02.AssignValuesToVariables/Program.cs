@@ -18,7 +18,7 @@ namespace _02.AssignValuesToVariables
             34.567839023;
             12.345;
             8923.1234857;
-            3456.091124875956542151256683467;
+            decimal decimalVariable = 3456.091124875956542151256683467;
 
         }
     }
