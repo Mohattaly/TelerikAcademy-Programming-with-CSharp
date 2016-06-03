@@ -16,7 +16,7 @@ namespace _02.AssignValuesToVariables
             5
             -5.01
             34.567839023;
-            12.345;
+            float floatVariable = 12.345;
             8923.1234857;
             decimal decimalVariable = 3456.091124875956542151256683467;
 
