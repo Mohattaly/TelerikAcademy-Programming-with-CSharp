@@ -10,6 +10,13 @@ namespace _11.PrintIsoscelesTriangle
     {
         static void Main(string[] args)
         {
+
+            // 11. Write a program that prints on the console isosceles triangle which sides consist of the copyright character "©".
+
+
+            Console.WriteLine("©");
+
+
         }
     }
 }

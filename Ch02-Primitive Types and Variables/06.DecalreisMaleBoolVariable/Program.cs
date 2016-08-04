@@ -10,6 +10,12 @@ namespace _06.DecalreisMaleBoolVariable
     {
         static void Main(string[] args)
         {
+
+
+
+            bool isMale = true;
+            Console.WriteLine(isMale);
+
         }
     }
 }

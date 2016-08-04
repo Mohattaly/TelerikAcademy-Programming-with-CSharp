@@ -1,1 +1,2 @@
 D:\OneDrive\Repos\Ch02-Primitive Types and Variables\02-Primitive Types and Variables\01.DeclareSeveralVariables\bin\Debug\01.DeclareSeveralVariables.exe.config
+D:\OneDrive\Repos\TelerikAcademy-Programming-with-CSharp\Ch02-Primitive Types and Variables\01.DeclareSeveralVariables\bin\Debug\01.DeclareSeveralVariables.exe.config

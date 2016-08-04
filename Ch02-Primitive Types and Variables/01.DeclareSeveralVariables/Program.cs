@@ -11,22 +11,25 @@ namespace _01.DeclareSeveralVariables
         static void Main(string[] args)
         {
 
-            // 1. Declare several variables by selecting for each one of them the most appropriate of the types sbyte, byte, short, ushort, int, uint, long and ulong in order to assign them the following values: 52,130; -115; 4825932; 97; -10000; 20000; 224; 970,700,000; 112; -44; -1,000,000; 1990; 123456789123456789.
             
 
-            sbyte sbyteVariable = -44;
-            sbyte sbyteSecondVariable = -115;
-            byte byteVariable = 97;
-            byte byteSecondVariable = 112;
-            byte byteThirdVariable = 224;
-            short shortVariable 1990;
-            short shortSecondVariable 20000;
-            short shortThirdVariable -10000;
-            ushort ushortVariable = 52130;
-            int intVariable = 4825932;
-             970700000;
-            -1000000;
-            decimal decimalVariable = 123456789123456789;
+
+            // 01. Declare several variables by selecting for each one of them the most appropriate of the types sbyte, byte, short, ushort, int, uint, long and ulong in order to assign them the following values: 52,130; -115; 4825932; 97; -10000; 20000; 224; 970,700,000; 112; -44; -1,000,000; 1990; 123456789123456789.
+
+
+            int var1 = 52130;
+            sbyte var2 = -115;
+            int var3 = 4825932;
+            byte var4 = 97;
+            short var5 = -10000;
+            int var6 = 20000;
+            byte var7 = 224;
+            long var8 = 970700000;
+            byte var9 = 112;
+            int var10 = -44;
+            int var11 = -1000000;
+            short var12 = 1990;
+            ulong var13 = 123456789123456789;
 
 
 
