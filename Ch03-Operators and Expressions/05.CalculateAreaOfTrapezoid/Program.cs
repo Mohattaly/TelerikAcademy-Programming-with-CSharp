@@ -10,6 +10,20 @@ namespace _05.CalculateAreaOfTrapezoid
     {
         static void Main(string[] args)
         {
+
+            // Write an expression that calculates the area of a trapezoid by given sides a, b and height h.//
+
+        
+		Console.WriteLine("Side A= ");
+		double sideA = double.Parse(Console.ReadLine());
+		Console.WriteLine("Side B= ");
+		double sideB = double.Parse(Console.ReadLine());
+		Console.WriteLine("Height H= ");
+		double heightH = double.Parse(Console.ReadLine());
+        
+		Console.WriteLine("The area of trapezoid is :{0}",((sideA+sideB)*heightH)/2);
+
+
         }
     }
 }
